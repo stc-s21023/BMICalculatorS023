@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI計算機</string>
+    <string name="himando">あなたの肥満度は</string>
+    <string name="tekiseitaiju">あなたの適正体重は</string>
+    <string name="tv_nerei">年齢</string>
+    <string name="tv_sintyou">身長</string>
+    <string name="taiju">体重</string>
+    <string name="tv_sai">歳</string>
+    <string name="tv_cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="bt_kei">計算</string>
+    <string name="bt_clear">クリア</string>
+    <string name="dialog_title">警告</string>
+    <string name="dialog_msg">適切な肥満度を求めるためには、６歳未満の場合はカウプ指数が、６歳から１５歳まではローレル指数が使われます。本アプリはBMIのみに対応しています。</string>
+    <string name="dialog_btn_ok">確認</string>
+    <string name="dialog_ok_toast">確認ありがとうございます。</string>
+</resources>
